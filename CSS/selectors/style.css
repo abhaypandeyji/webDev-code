@@ -1,0 +1,20 @@
+body{
+    background-color: #212121;
+    color: #fff;
+
+}
+.heading1{
+    color: greenyellow;
+}
+#para1{
+    color: yellow;
+}
+li{
+    color: orchid;
+}
+.para2{
+    color: orangered;
+}
+.para3{
+    color: orange;
+}
